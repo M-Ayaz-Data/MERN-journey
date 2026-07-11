@@ -1,0 +1,16 @@
+#nav{
+    height: 50px;
+    width: 900px;
+    font-size: 24px;
+    background-color: lightpink;
+    border: 2px solid turquoise;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;  
+}
+#nav div{
+    
+    width: 80px;
+    /* line-height: 50px; */
+    margin-left: 5px;
+}
